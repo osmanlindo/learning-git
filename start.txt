@@ -1,3 +1,7 @@
 start projct
 change from local
+<<<<<<< HEAD
 change from github
+=======
+another local change
+>>>>>>> 86fad75 (local change 2)
